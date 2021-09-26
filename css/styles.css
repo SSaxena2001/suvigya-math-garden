@@ -5,6 +5,7 @@ width: 100%;
 background-position: top;
 background-repeat: no-repeat;
 background-size: cover;
+overflow: hidden;
 }
 
 /* TODO: Styling by html elemnt: add styling for h1 and h2 */
@@ -15,9 +16,9 @@ h1, h2 {
 /* TODO: Styling by id: add styling for #title */
 
 #title{
+  margin-top: 10%;
   color: #FC8C93;
   line-height: 50px;
-
 }
 
 #question {
